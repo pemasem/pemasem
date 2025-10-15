@@ -1,82 +1,50 @@
-# Pere Mataix Sempere
-
-**Software Engineer | Alicante, Spain**
-
-📫 Contacto: pere.mataix@gmail.com  
-📱 Teléfono: +34 647 945 468  
-🌍 Ubicación: Muro de Alcoy (Alicante), España
-
----
-
-## Sobre mí
-
-Apasionado por el desarrollo de software, con más de 12 años de experiencia en PHP (Symfony, MySQL, Javascript) y 9 años en .NET (ASP.NET Core, DevOps). Experto en bases de datos SQL Server y T-SQL, así como en arquitecturas multi-tier y patrones de diseño orientados a objetos. Me considero una persona curiosa, siempre buscando aprender nuevas tecnologías y mejorar mis métodos de trabajo para obtener resultados eficientes y de calidad.
-
----
-
-## Stack principal
-
-- **PHP (Symfony, MySQL, Javascript):** 12 años
-- **.NET (ASP.NET Core, DevOps):** 9 años
-- **T-SQL (SQL Server):** 9 años
-
-### Otros conocimientos
-
-- Git, jQuery, Redis, Angular, MongoDB
-- WinForms (7 años), ASP.NET WebForms (4 años)
-- Web Services, XML, SOAP, REST (7 años)
-- Sistemas instalados: Joomla, NopCommerce
-
----
-
-## Habilidades
-
-- Programación orientada a objetos (OOP) y principios SOLID
-- Patrones de diseño y arquitectónicos
-- Diseño y desarrollo de arquitecturas multi-tier
-- Desarrollo en entornos multi-threaded
-- Alto interés en usabilidad e innovación
-- Aprendizaje continuo (libros, artículos, blogs, cursos)
-
----
-
-## Experiencia destacada
-
-**Hobby Project:**  
-- App móvil para Palm Pre (WebOS) que registra posiciones GPS, envía los datos y los muestra en Google Maps.
-- Instalación y configuración de sistemas como Joomla y NopCommerce.
-
----
-
-## Intereses técnicos
-
-- Todo lo relacionado con .NET
-- Innovación en presentación de usuario y estándares de usabilidad
-- Diseño gráfico: conocimientos en 3dStudio, Autocad, Photoshop
-
----
-
-## Formación
-
-- **2003** – Técnico auxiliar en diseño industrial e interiorismo (Servef)
-- **1998 - 2003** – Ingeniería de Telecomunicaciones, especialidad Telemática
-
----
-
-## Idiomas
-
-- Español (nativo)
-- Catalán (nativo)
-- Inglés (conversación)
-
----
-
-## Otros
-
-- Carnet de conducir
-- C.A.P. (requisito para ejercer como profesor)
-- Aficiones: fútbol, música, naturaleza, fotografía
-
----
-
-> _Siempre dispuesto a aprender y afrontar nuevos retos en el mundo del desarrollo de software._
+| Español                                                                                                                | English                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| # Pere Mataix Sempere                                                                                                  | # Pere Mataix Sempere                                                                                                  |
+| **Ingeniero de Software \| Alicante, España**                                                                          | **Software Engineer \| Alicante, Spain**                                                                               |
+| 📫 Contacto: pere.mataix@gmail.com  <br> 📱 Teléfono: +34 647 945 468 <br> 🌍 Ubicación: Muro de Alcoy (Alicante), España | 📫 Contact: pere.mataix@gmail.com  <br> 📱 Phone: +34 647 945 468 <br> 🌍 Location: Muro de Alcoy (Alicante), Spain      |
+| ---                                                                                                                    | ---                                                                                                                    |
+| ## Sobre mí                                                                                                            | ## About Me                                                                                                            |
+| Apasionado por el desarrollo de software, con más de 12 años de experiencia en PHP (Symfony, MySQL, Javascript) y 9 años en .NET (ASP.NET Core, DevOps). Experto en bases de datos SQL Server y T-SQL, así como en arquitecturas multi-tier y patrones de diseño orientados a objetos. Me considero una persona curiosa, siempre buscando aprender nuevas tecnologías y mejorar mis métodos de trabajo para obtener resultados eficientes y de calidad. | Passionate about software development, with over 12 years of experience in PHP (Symfony, MySQL, Javascript) and 9 years in .NET (ASP.NET Core, DevOps). Expert in SQL Server and T-SQL databases, as well as multi-tiered architectures and object-oriented design patterns. I am a curious person, always eager to learn new technologies and improve my working methods to achieve efficient and high-quality results. |
+| ---                                                                                                                    | ---                                                                                                                    |
+| ## Stack principal                                                                                                     | ## Main Stack                                                                                                          |
+| - **PHP (Symfony, MySQL, Javascript):** 12 años                                                                        | - **PHP (Symfony, MySQL, Javascript):** 12 years                                                                       |
+| - **.NET (ASP.NET Core, DevOps):** 9 años                                                                              | - **.NET (ASP.NET Core, DevOps):** 9 years                                                                             |
+| - **T-SQL (SQL Server):** 9 años                                                                                       | - **T-SQL (SQL Server):** 9 years                                                                                      |
+| ### Otros conocimientos                                                                                                | ### Other Knowledge                                                                                                    |
+| - Git, jQuery, Redis, Angular, MongoDB                                                                                 | - Git, jQuery, Redis, Angular, MongoDB                                                                                 |
+| - WinForms (7 años), ASP.NET WebForms (4 años)                                                                         | - WinForms (7 years), ASP.NET WebForms (4 years)                                                                       |
+| - Web Services, XML, SOAP, REST (7 años)                                                                               | - Web Services, XML, SOAP, REST (7 years)                                                                              |
+| - Sistemas instalados: Joomla, NopCommerce                                                                             | - Installed systems: Joomla, NopCommerce                                                                               |
+| ---                                                                                                                    | ---                                                                                                                    |
+| ## Habilidades                                                                                                         | ## Skills                                                                                                              |
+| - Programación orientada a objetos (OOP) y principios SOLID                                                            | - Object-Oriented Programming (OOP) and SOLID principles                                                               |
+| - Patrones de diseño y arquitectónicos                                                                                 | - Design and architectural patterns                                                                                    |
+| - Diseño y desarrollo de arquitecturas multi-tier                                                                      | - Designing and developing multi-tiered architectures                                                                  |
+| - Desarrollo en entornos multi-threaded                                                                                | - Multi-threaded environments development                                                                              |
+| - Alto interés en usabilidad e innovación                                                                              | - High interest in usability and innovation                                                                            |
+| - Aprendizaje continuo (libros, artículos, blogs, cursos)                                                             | - Continuous learning (books, articles, blogs, courses)                                                                |
+| ---                                                                                                                    | ---                                                                                                                    |
+| ## Experiencia destacada                                                                                               | ## Featured Experience                                                                                                 |
+| **Proyecto personal:** <br> - App móvil para Palm Pre (WebOS) que registra posiciones GPS, envía los datos y los muestra en Google Maps.<br>- Instalación y configuración de sistemas como Joomla y NopCommerce. | **Personal Project:** <br> - Mobile app for Palm Pre (WebOS) that tracks GPS positions, sends data, and displays them on Google Maps.<br>- Installation and configuration of systems such as Joomla and NopCommerce. |
+| ---                                                                                                                    | ---                                                                                                                    |
+| ## Intereses técnicos                                                                                                  | ## Technical Interests                                                                                                 |
+| - Todo lo relacionado con .NET                                                                                         | - Everything related to .NET                                                                                           |
+| - Innovación en presentación de usuario y estándares de usabilidad                                                     | - Innovative user presentation and usability standards                                                                 |
+| - Diseño gráfico: conocimientos en 3dStudio, Autocad, Photoshop                                                        | - Graphic design knowledge: 3dStudio, Autocad, Photoshop                                                               |
+| ---                                                                                                                    | ---                                                                                                                    |
+| ## Formación                                                                                                           | ## Education                                                                                                           |
+| - **2003** – Técnico auxiliar en diseño industrial e interiorismo (Servef)                                             | - **2003** – Technical assistant in industrial and interior design (Servef)                                            |
+| - **1998 - 2003** – Ingeniería de Telecomunicaciones, especialidad Telemática                                          | - **1998 - 2003** – Telecommunications Engineering, Telematics specialization                                          |
+| ---                                                                                                                    | ---                                                                                                                    |
+| ## Idiomas                                                                                                             | ## Languages                                                                                                           |
+| - Español (nativo)                                                                                                     | - Spanish (native)                                                                                                     |
+| - Catalán (nativo)                                                                                                     | - Catalan (native)                                                                                                     |
+| - Inglés (conversación)                                                                                                | - English (conversational)                                                                                             |
+| ---                                                                                                                    | ---                                                                                                                    |
+| ## Otros                                                                                                               | ## Other                                                                                                               |
+| - Carnet de conducir                                                                                                   | - Driving license                                                                                                      |
+| - C.A.P. (requisito para ejercer como profesor)                                                                        | - C.A.P. (required to work as a teacher)                                                                               |
+| - Aficiones: fútbol, música, naturaleza, fotografía                                                                    | - Hobbies: football, music, nature, photography                                                                        |
+| ---                                                                                                                    | ---                                                                                                                    |
+| > _Siempre dispuesto a aprender y afrontar nuevos retos en el mundo del desarrollo de software._                       | > _Always willing to learn and take on new challenges in the world of software development._                           |
