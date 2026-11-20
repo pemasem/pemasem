@@ -15,6 +15,21 @@ html, body { margin: 0; background: #d8d3c8; }
   .page { margin: 0; box-shadow: none; break-after: page; }
   .page:last-child { break-after: auto; }
 }
+
+body{margin:0}
+a{color:#0E5C58}a:hover{color:#0A4441}
+
+
+body{margin:0}
+a{color:#0E5C58}a:hover{color:#0A4441}
+.it{display:flex;gap:10px;align-items:flex-start}
+.bx{flex:none;width:16px;height:16px;margin-top:1px;box-sizing:border-box;border:1.5px solid #1D2427;border-radius:3px;background:#FFFFFF}
+.tx{display:flex;flex-direction:column;gap:1px}
+.va{font-size:14px;line-height:1.3}
+.es{font-size:12px;line-height:1.3;font-style:italic;color:#5A6266}
+.cat{margin-top:6px;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase}
+.cat i{font-weight:500;letter-spacing:0;text-transform:none}
+
 </style>
 </head>
 <body>
@@ -80,95 +95,58 @@ html, body { margin: 0; background: #d8d3c8; }
 </div></div>
 <div class="page"><div style="width: 1123px; height: 794px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); background: #F6F2EA; color: #1D2427; font-family: Inter, system-ui, sans-serif; overflow: hidden">
 
-<section style="box-sizing: border-box; height: 794px; padding: 44px 40px; display: flex; flex-direction: column; gap: 16px; border-right: 1px solid #E4DDCF">
-<div style="display: flex; flex-direction: column; gap: 6px">
-<div style="display: flex; gap: 6px"><span style="width: 28px; height: 6px; border-radius: 3px; background: #0E5C58"></span><span style="width: 28px; height: 6px; border-radius: 3px; background: #D9D1C3"></span><span style="width: 28px; height: 6px; border-radius: 3px; background: #D9D1C3"></span></div>
-<div style="margin-top: 6px; font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #0E5C58">Nivell 1 · Nivel 1</div>
-<h2 style="margin: 0; font-family: 'Space Grotesk', sans-serif; font-size: 28px; line-height: 1.1; font-weight: 700">Des de zero</h2>
-<span lang="es" style="font-family: 'Space Grotesk', sans-serif; font-size: 17px; font-weight: 500; color: #5A6266">Desde cero</span>
-<span style="font-size: 14px; line-height: 1.4; color: #4A5458">Si encara no tens res digital. · <span lang="es" style="font-style: italic">Si aún no tienes nada digital.</span></span>
+<section style="box-sizing: border-box; height: 794px; padding: 44px 40px; display: flex; flex-direction: column; gap: 10px; border-right: 1px solid #E4DDCF">
+<div style="display: flex; flex-direction: column; gap: 4px">
+<h2 style="margin: 0; font-family: 'Space Grotesk', sans-serif; font-size: 30px; line-height: 1.1; font-weight: 700">Què t'ajudaria?</h2>
+<span lang="es" style="font-family: 'Space Grotesk', sans-serif; font-size: 18px; font-weight: 500; color: #5A6266">¿Qué te ayudaría?</span>
+<span style="margin-top: 6px; font-size: 14px; line-height: 1.4">Marca el que t'interesse. Sense compromís.</span>
+<span lang="es" style="font-size: 12px; line-height: 1.3; font-style: italic; color: #5A6266">Marca lo que te interese. Sin compromiso.</span>
 </div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Que et troben en Google Maps</strong>
-<span style="font-size: 14px; line-height: 1.4">Horari, telèfon, fotos i com arribar, ben posats.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #5A6266">Que te encuentren en Google Maps: horario, teléfono, fotos y cómo llegar.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">WhatsApp Business ben configurat</strong>
-<span style="font-size: 14px; line-height: 1.4">Catàleg, respostes ràpides i missatge quan està tancat.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #5A6266">WhatsApp Business: catálogo, respuestas rápidas y aviso de cerrado.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Ajuda amb el mòbil i l'ordinador</strong>
-<span style="font-size: 14px; line-height: 1.4">Correu, documents i còpies de seguretat.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #5A6266">Ayuda con el móvil y el ordenador: correo, documentos y copias de seguridad.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">T'ensenye a fer-ho tu</strong>
-<span style="font-size: 14px; line-height: 1.4">Al teu ritme, a la teua botiga i amb paciència.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #5A6266">Te enseño a hacerlo tú, a tu ritmo y en tu tienda.</span>
-</div>
+<div class="cat" style="color: #0E5C58">Que et troben · <i lang="es">Que te encuentren</i></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Fitxa de Google Maps al dia</span><span class="es" lang="es">Ficha de Google Maps al día</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Aparéixer en Google (SEO local)</span><span class="es" lang="es">Aparecer en Google (SEO local)</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Respondre ressenyes amb IA</span><span class="es" lang="es">Responder reseñas con IA</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Una web o catàleg senzill</span><span class="es" lang="es">Una web o catálogo sencillo</span></div></div>
+<div class="cat" style="color: #0E5C58">Clients i vendes · <i lang="es">Clientes y ventas</i></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">WhatsApp Business ben configurat</span><span class="es" lang="es">WhatsApp Business bien configurado</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Encàrrecs i reserves sense llibreta</span><span class="es" lang="es">Encargos y reservas sin libreta</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Un assistent IA que contesta per tu</span><span class="es" lang="es">Un asistente IA que contesta por ti</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Avisos: «la comanda està llesta»</span><span class="es" lang="es">Avisos: «tu pedido está listo»</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Targeta de fidelització digital</span><span class="es" lang="es">Tarjeta de fidelización digital</span></div></div>
 </section>
 
-<section style="box-sizing: border-box; height: 794px; padding: 44px 40px; display: flex; flex-direction: column; gap: 16px; border-right: 1px solid #E4DDCF">
-<div style="display: flex; flex-direction: column; gap: 6px">
-<div style="display: flex; gap: 6px"><span style="width: 28px; height: 6px; border-radius: 3px; background: #0E5C58"></span><span style="width: 28px; height: 6px; border-radius: 3px; background: #0E5C58"></span><span style="width: 28px; height: 6px; border-radius: 3px; background: #D9D1C3"></span></div>
-<div style="margin-top: 6px; font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #0E5C58">Nivell 2 · Nivel 2</div>
-<h2 style="margin: 0; font-family: 'Space Grotesk', sans-serif; font-size: 28px; line-height: 1.1; font-weight: 700">Un pas més</h2>
-<span lang="es" style="font-family: 'Space Grotesk', sans-serif; font-size: 17px; font-weight: 500; color: #5A6266">Un paso más</span>
-<span style="font-size: 14px; line-height: 1.4; color: #4A5458">Si ja tens el bàsic. · <span lang="es" style="font-style: italic">Si ya tienes lo básico.</span></span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Web o catàleg senzill</strong>
-<span style="font-size: 14px; line-height: 1.4">Els teus productes amb fotos i preus, fàcil d'actualitzar.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #5A6266">Web o catálogo sencillo con fotos y precios, fácil de actualizar.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Encàrrecs i reserves</strong>
-<span style="font-size: 14px; line-height: 1.4">Per WhatsApp o en línia, ordenats i sense llibretes.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #5A6266">Encargos y reservas por WhatsApp u online, ordenados y sin libretas.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Xarxes socials sense perdre temps</strong>
-<span style="font-size: 14px; line-height: 1.4">Plantilles i un mètode per a publicar en deu minuts.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #5A6266">Redes sociales: plantillas y un método para publicar en diez minutos.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Avisos als clients</strong>
-<span style="font-size: 14px; line-height: 1.4">«La comanda està llesta», recordatoris de cita o revisió.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #5A6266">Avisos a clientes: pedido listo, recordatorios de cita o revisión.</span>
-</div>
+<section style="box-sizing: border-box; height: 794px; padding: 44px 40px; display: flex; flex-direction: column; gap: 10px; border-right: 1px solid #E4DDCF">
+<div class="cat" style="margin-top: 0; color: #0E5C58">Cartelleria i publicitat amb IA · <i lang="es">Cartelería y publicidad con IA</i></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Cartells i ofertes per a l'aparador</span><span class="es" lang="es">Carteles y ofertas para el escaparate</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Fotos de producte millorades amb IA</span><span class="es" lang="es">Fotos de producto mejoradas con IA</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Publicacions per a xarxes socials</span><span class="es" lang="es">Publicaciones para redes sociales</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Anuncis en xarxes i en Google</span><span class="es" lang="es">Anuncios en redes y en Google</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Campanyes: Nadal, fira, bons de consum</span><span class="es" lang="es">Campañas: Navidad, feria, bonos de consumo</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Logotip o imatge renovada</span><span class="es" lang="es">Logotipo o imagen renovada</span></div></div>
+<div class="cat" style="margin-top: 14px; color: #0E5C58">Temps i gestió · <i lang="es">Tiempo y gestión</i></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Factures i estoc sense copiar a mà</span><span class="es" lang="es">Facturas y stock sin copiar a mano</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Saber què vens més i quan</span><span class="es" lang="es">Saber qué vendes más y cuándo</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Ajuda amb el mòbil i l'ordinador</span><span class="es" lang="es">Ayuda con el móvil y el ordenador</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Una eina a mida per a la meua botiga</span><span class="es" lang="es">Una herramienta a medida para mi tienda</span></div></div>
 </section>
 
-<section style="box-sizing: border-box; height: 794px; padding: 44px 40px; display: flex; flex-direction: column; gap: 16px; background: #EAE3D5">
-<div style="display: flex; flex-direction: column; gap: 6px">
-<div style="display: flex; gap: 6px"><span style="width: 28px; height: 6px; border-radius: 3px; background: #0E5C58"></span><span style="width: 28px; height: 6px; border-radius: 3px; background: #0E5C58"></span><span style="width: 28px; height: 6px; border-radius: 3px; background: #0E5C58"></span></div>
-<div style="margin-top: 6px; font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #0E5C58">Nivell 3 · Nivel 3</div>
-<h2 style="margin: 0; font-family: 'Space Grotesk', sans-serif; font-size: 28px; line-height: 1.1; font-weight: 700">Que treballe per tu</h2>
-<span lang="es" style="font-family: 'Space Grotesk', sans-serif; font-size: 17px; font-weight: 500; color: #4F575B">Que trabaje por ti</span>
-<span style="font-size: 14px; line-height: 1.4; color: #4A5458">Si vols guanyar hores cada setmana. · <span lang="es" style="font-style: italic">Si quieres ganar horas cada semana.</span></span>
+<section style="box-sizing: border-box; height: 794px; padding: 44px 40px; display: flex; flex-direction: column; gap: 10px; background: #EAE3D5">
+<div class="cat" style="margin-top: 0; color: #0E5C58">Aprén a fer-ho tu · <i lang="es">Aprende a hacerlo tú</i></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Taller d'IA des de zero</span><span class="es" lang="es">Taller de IA desde cero</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Fer els meus cartells amb IA</span><span class="es" lang="es">Hacer mis carteles con IA</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Fotos i textos per a xarxes</span><span class="es" lang="es">Fotos y textos para redes</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Respondre clients amb IA</span><span class="es" lang="es">Responder a clientes con IA</span></div></div>
+<div class="it"><span class="bx"></span><div class="tx"><span class="va">Taller en grup amb l'associació</span><span class="es" lang="es">Taller en grupo con la asociación</span></div></div>
+<div class="cat" style="margin-top: 14px; color: #0E5C58">Altres idees · <i lang="es">Otras ideas</i></div>
+<div style="height: 30px; border-bottom: 1px solid #9C968A"></div>
+<div style="height: 30px; border-bottom: 1px solid #9C968A"></div>
+<div style="height: 30px; border-bottom: 1px solid #9C968A"></div>
+<div style="height: 30px; border-bottom: 1px solid #9C968A"></div>
+<div style="margin-top: auto; padding: 16px 18px; border-radius: 10px; background: #0E5C58; color: #FFFFFF; display: flex; flex-direction: column; gap: 8px">
+<strong style="font-family: 'Space Grotesk', sans-serif; font-size: 17px; line-height: 1.2">Com m'ho fas arribar? <span lang="es" style="font-weight: 500; color: #CFE2DE">· ¿Cómo me lo haces llegar?</span></strong>
+<span style="font-size: 14px; line-height: 1.4">1. Marca el que vulgues. 2. Fes-li una foto. 3. Envia-la per WhatsApp al <strong>647 945 468</strong>.</span>
+<span lang="es" style="font-size: 12px; line-height: 1.35; font-style: italic; color: #CFE2DE">Márcalo, hazle una foto y envíala por WhatsApp. O escanea el QR de la contraportada.</span>
 </div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Un assistent que contesta</strong>
-<span style="font-size: 14px; line-height: 1.4">Amb intel·ligència artificial: respon el de sempre i et passa la resta.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #4F575B">Un asistente con inteligencia artificial que responde lo de siempre.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Paperassa automàtica</strong>
-<span style="font-size: 14px; line-height: 1.4">Factures, estoc i comandes sense copiar a mà.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #4F575B">Facturas, stock y pedidos sin copiar a mano.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Saber què funciona</strong>
-<span style="font-size: 14px; line-height: 1.4">Què vens més, quan i què busquen els teus clients.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #4F575B">Qué vendes más, cuándo y qué buscan tus clientes.</span>
-</div>
-<div style="display: flex; flex-direction: column; gap: 3px">
-<strong style="font-size: 16px">Eines a mida</strong>
-<span style="font-size: 14px; line-height: 1.4">Per a allò que cap programa resol.</span>
-<span lang="es" style="font-size: 13px; line-height: 1.35; font-style: italic; color: #4F575B">Herramientas a medida para lo que ningún programa resuelve.</span>
-</div>
-<div style="margin-top: auto; padding-top: 12px; border-top: 1px solid #D3CAB9; font-size: 13px; line-height: 1.4">Tallers en grup per a socis de Muro Comerç i Serveis. · <span lang="es" style="font-style: italic; color: #4F575B">Talleres en grupo para socios.</span></div>
 </section>
 
 </div></div>
