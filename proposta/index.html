@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Acompanyament digital de proximitat · Proposta</title>
+<meta name="description" content="Proposta de servei d'acompanyament digital per a persones majors a Muro i la Mancomunitat de Serveis Socials Mariola.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;1,400&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#FFFFFF;--bg:#E9E4DA;--sand:#F3EEE4;--ink:#1D2427;--muted:#4F575B;--line:#D9D1C3;--accent:#0E5C58;--soft:#DCEBE8;--gold:#E0A23A}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,sans-serif}
+body:not(.es) [data-l=es], body.es [data-l=ca]{display:none !important}
+.bar{max-width:794px;margin:16px auto 0;padding:0 16px;display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap}
+.bar button,.bar a{font:inherit;font-size:14px;font-weight:600;padding:10px 14px;min-height:44px;border-radius:8px;border:1.5px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;text-decoration:none;display:inline-flex;align-items:center}
+.bar button[aria-pressed=true]{background:var(--accent);color:#FFFFFF}
+.sheet{width:794px;min-height:1123px;margin:12px auto 24px;background:var(--paper);box-shadow:0 2px 12px rgba(0,0,0,.12);padding:56px 60px 48px;display:flex;flex-direction:column;gap:18px}
+.kicker{font-size:12px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:'Space Grotesk',sans-serif;font-size:34px;line-height:1.08;margin:6px 0 6px}
+.lead{font-size:15px;line-height:1.5;color:var(--muted);margin:0}
+.rule{height:5px;width:56px;border-radius:3px;background:var(--gold)}
+h2{font-family:'Space Grotesk',sans-serif;font-size:17px;margin:0 0 6px;display:flex;align-items:center;gap:8px}
+h2 .n{flex:none;width:24px;height:24px;border-radius:12px;background:var(--accent);color:#fff;font-size:13px;display:inline-flex;align-items:center;justify-content:center}
+p,li{font-size:13.5px;line-height:1.5;margin:0}
+ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:3px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 28px}
+.box{background:var(--sand);border-radius:10px;padding:14px 16px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.chips span{font-size:12px;padding:4px 9px;border-radius:999px;background:var(--soft);color:#0A4441;font-weight:500}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;color:var(--muted);font-weight:600}
+.ph{background:#FFF4D6;border:1px dashed #C9A24A;border-radius:4px;padding:0 4px;font-weight:600}
+.foot{margin-top:auto;padding-top:14px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:13px}
+.foot strong{font-family:'Space Grotesk',sans-serif;font-size:16px}
+.foot a{color:var(--accent)}
+@media (max-width:820px){
+  .sheet{width:auto;min-height:0;margin:12px 0 24px;padding:32px 16px}
+  .grid{grid-template-columns:minmax(0,1fr)}
+  h1{font-size:28px}
+}
+@media print{
+  @page{size:A4;margin:0}
+  html,body{background:none}
+  .bar{display:none}
+  .sheet{margin:0;box-shadow:none;width:794px;height:1123px;overflow:hidden}
+}
+</style>
+</head>
+<body>
+<div class="bar">
+<button type="button" id="b-ca" aria-pressed="true">Valencià</button>
+<button type="button" id="b-es" aria-pressed="false">Castellano</button>
+<a href="proposta-ca.pdf" data-l="ca">Descarregar PDF</a>
+<a href="proposta-es.pdf" data-l="es">Descargar PDF</a>
+</div>
+
+<main class="sheet">
+
+<header>
+<div class="kicker" data-l="ca">Proposta · Ajuntament de Muro i Mancomunitat de Serveis Socials Mariola</div>
+<div class="kicker" data-l="es">Propuesta · Ayuntamiento de Muro y Mancomunitat de Serveis Socials Mariola</div>
+<h1 data-l="ca">Acompanyament digital de proximitat per a persones majors</h1>
+<h1 data-l="es">Acompañamiento digital de proximidad para personas mayores</h1>
+<div class="rule"></div>
+<p class="lead" style="margin-top:10px" data-l="ca">Cada vegada més tràmits només es poden fer amb el mòbil o l'ordinador: cita mèdica, banc, receptes, administració. Moltes persones majors depenen d'un familiar o es queden fora. Propose un servei estable, en valencià i a prop de casa, perquè guanyen autonomia.</p>
+<p class="lead" style="margin-top:10px" data-l="es">Cada vez más trámites solo se pueden hacer con el móvil o el ordenador: cita médica, banco, recetas, administración. Muchas personas mayores dependen de un familiar o se quedan fuera. Propongo un servicio estable, en valenciano y cerca de casa, para que ganen autonomía.</p>
+</header>
+
+<section class="grid">
+<div>
+<h2><span class="n">1</span><span data-l="ca">Què oferisc</span><span data-l="es">Qué ofrezco</span></h2>
+<ul data-l="ca">
+<li><strong>Punt fix setmanal</strong> a Muro, amb cita o sense.</li>
+<li><strong>Visites a domicili</strong> per a qui no pot desplaçar-se.</li>
+<li><strong>Seguiment</strong>: la mateixa persona, setmana rere setmana.</li>
+<li><strong>Guies senzilles</strong> en paper per a repassar a casa.</li>
+<li><strong>Prevenció de fraus</strong> per SMS, telèfon i WhatsApp.</li>
+</ul>
+<ul data-l="es">
+<li><strong>Punto fijo semanal</strong> en Muro, con cita o sin ella.</li>
+<li><strong>Visitas a domicilio</strong> para quien no puede desplazarse.</li>
+<li><strong>Seguimiento</strong>: la misma persona, semana tras semana.</li>
+<li><strong>Guías sencillas</strong> en papel para repasar en casa.</li>
+<li><strong>Prevención de fraudes</strong> por SMS, teléfono y WhatsApp.</li>
+</ul>
+</div>
+<div>
+<h2><span class="n">2</span><span data-l="ca">Què resolem</span><span data-l="es">Qué resolvemos</span></h2>
+<div class="chips" data-l="ca"><span>Cita prèvia sanitària</span><span>Banca en línia</span><span>Receptes i salut</span><span>Cl@ve i certificat digital</span><span>WhatsApp i videotrucades</span><span>Fotos i documents</span><span>Configurar el mòbil</span><span>Detectar estafes</span></div>
+<div class="chips" data-l="es"><span>Cita previa sanitaria</span><span>Banca online</span><span>Recetas y salud</span><span>Cl@ve y certificado digital</span><span>WhatsApp y videollamadas</span><span>Fotos y documentos</span><span>Configurar el móvil</span><span>Detectar estafas</span></div>
+<p style="margin-top:10px" data-l="ca">La persona fa el tràmit ella mateixa, amb ajuda. No guarde contrasenyes ni dades personals.</p>
+<p style="margin-top:10px" data-l="es">La persona hace el trámite ella misma, con ayuda. No guardo contraseñas ni datos personales.</p>
+</div>
+</section>
+
+<section class="box">
+<h2><span class="n">3</span><span data-l="ca">Per què complementa el que ja hi ha</span><span data-l="es">Por qué complementa lo que ya existe</span></h2>
+<p data-l="ca">Programes com <em>iai@ connectat</em> o <em>Ciutadania Digital</em> de la Generalitat fan tallers puntuals. Aquest servei és continu, individual i local: quan apareix un problema nou, hi ha algú conegut a qui preguntar. Pot servir també per a donar continuïtat als tallers.</p>
+<p data-l="es">Programas como <em>iai@ connectat</em> o <em>Ciutadania Digital</em> de la Generalitat hacen talleres puntuales. Este servicio es continuo, individual y local: cuando aparece un problema nuevo, hay alguien conocido a quien preguntar. Puede servir también para dar continuidad a los talleres.</p>
+</section>
+
+<section>
+<h2><span class="n">4</span><span data-l="ca">Pilot de 3 mesos a Muro</span><span data-l="es">Piloto de 3 meses en Muro</span></h2>
+<table>
+<thead><tr><th data-l="ca">Què</th><th data-l="es">Qué</th><th data-l="ca">Detall</th><th data-l="es">Detalle</th></tr></thead>
+<tbody>
+<tr><td data-l="ca">Horari</td><td data-l="es">Horario</td><td data-l="ca"><span class="ph">[X]</span> hores setmanals en un espai municipal</td><td data-l="es"><span class="ph">[X]</span> horas semanales en un espacio municipal</td></tr>
+<tr><td data-l="ca">Domicilis</td><td data-l="es">Domicilios</td><td data-l="ca">Derivats per Serveis Socials, fins a <span class="ph">[X]</span> al mes</td><td data-l="es">Derivados por Servicios Sociales, hasta <span class="ph">[X]</span> al mes</td></tr>
+<tr><td data-l="ca">Indicadors</td><td data-l="es">Indicadores</td><td data-l="ca">Persones ateses, tràmits resolts, satisfacció i estafes evitades</td><td data-l="es">Personas atendidas, trámites resueltos, satisfacción y estafas evitadas</td></tr>
+<tr><td data-l="ca">Informe</td><td data-l="es">Informe</td><td data-l="ca">Informe final amb resultats i propostes de millora</td><td data-l="es">Informe final con resultados y propuestas de mejora</td></tr>
+<tr><td data-l="ca">Cost</td><td data-l="es">Coste</td><td data-l="ca"><span class="ph">[Import]</span> € + IVA el pilot complet</td><td data-l="es"><span class="ph">[Importe]</span> € + IVA el piloto completo</td></tr>
+</tbody>
+</table>
+</section>
+
+<section class="grid">
+<div>
+<h2><span class="n">5</span><span data-l="ca">Després del pilot</span><span data-l="es">Después del piloto</span></h2>
+<p data-l="ca">Ampliar als municipis de la Mancomunitat Mariola (Agres, Alfafara, l'Alqueria d'Asnar i Gaianes) amb el mateix format, compartint costos.</p>
+<p data-l="es">Ampliar a los municipios de la Mancomunitat Mariola (Agres, Alfafara, l'Alqueria d'Asnar y Gaianes) con el mismo formato, compartiendo costes.</p>
+</div>
+<div>
+<h2><span class="n">6</span><span data-l="ca">Qui sóc</span><span data-l="es">Quién soy</span></h2>
+<p data-l="ca">Pere Mataix Sempere, enginyer de Telecomunicacions amb més de 12 anys desenvolupant programari. Treballe a Muro i explique la tecnologia sense paraules rares.</p>
+<p data-l="es">Pere Mataix Sempere, ingeniero de Telecomunicaciones con más de 12 años desarrollando software. Trabajo en Muro y explico la tecnología sin palabras raras.</p>
+</div>
+</section>
+
+<footer class="foot">
+<div><strong>Pere Mataix Sempere</strong><br><span data-l="ca">Muro d'Alcoi</span><span data-l="es">Muro de Alcoy</span></div>
+<div style="text-align:right"><a href="tel:+34647945468">647 945 468</a> · <a href="mailto:pere.mataix@gmail.com">pere.mataix@gmail.com</a><br><a href="https://www.linkedin.com/in/pere-mataix">linkedin.com/in/pere-mataix</a></div>
+</footer>
+
+</main>
+<script>
+(function(){
+  var ca=document.getElementById('b-ca'), es=document.getElementById('b-es');
+  function set(l){
+    document.body.classList.toggle('es', l==='es');
+    document.documentElement.lang = l==='es' ? 'es' : 'ca';
+    ca.setAttribute('aria-pressed', l!=='es'); es.setAttribute('aria-pressed', l==='es');
+    try{ history.replaceState(null,'', l==='es' ? '?lang=es' : location.pathname); }catch(e){}
+  }
+  ca.addEventListener('click', function(){ set('ca'); });
+  es.addEventListener('click', function(){ set('es'); });
+  set(new URLSearchParams(location.search).get('lang')==='es' ? 'es' : 'ca');
+})();
+</script>
+</body>
+</html>
