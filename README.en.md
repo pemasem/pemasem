@@ -18,6 +18,8 @@ Telecommunications engineer with 12 years in PHP (Symfony, MySQL, JavaScript) an
 | Your website brings no clients, or you have none | A fast, clear website linked to your Google Business profile |
 | Your data is scattered and you don't know what works | A tidy database and dashboards with what you actually need to see |
 
+📄 **Leaflet for local shops** (Valencian and Spanish): [view online](https://pemasem.github.io/pemasem/triptic/) · [download PDF](triptic/triptic-pere-mataix.pdf)
+
 ## How I work
 
 1. **We talk about your business**, not technology. You tell me what eats your time.

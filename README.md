@@ -18,6 +18,8 @@ Ingeniero de Telecomunicaciones, con 12 años en PHP (Symfony, MySQL, JavaScript
 | Tu web no te trae clientes o no tienes web | Una web rápida y clara, con tu ficha de Google bien enlazada |
 | Tus datos están repartidos y no sabes qué funciona | Una base de datos ordenada y paneles con lo que de verdad necesitas mirar |
 
+📄 **Tríptico para comercios** (valenciano y castellano): [ver online](https://pemasem.github.io/pemasem/triptic/) · [descargar PDF](triptic/triptic-pere-mataix.pdf)
+
 ## Cómo trabajo
 
 1. **Hablamos de tu negocio**, no de tecnología. Me cuentas qué te quita tiempo.
