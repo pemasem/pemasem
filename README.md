@@ -4,7 +4,7 @@
 
 Español · [English](README.en.md)
 
-📫 pere.mataix@gmail.com · 📱 +34 647 945 468 · [LinkedIn](https://www.linkedin.com/in/pere-mataix) · [Página profesional](https://www.linkedin.com/company/pere-mataix-desarrollo)
+📫 pere.mataix@gmail.com · 📱 +34 647 945 468 · [LinkedIn](https://www.linkedin.com/in/pemasem) · [Página profesional](https://www.linkedin.com/company/pere-mataix-desarrollo)
 
 Ingeniero de Telecomunicaciones, con 12 años en PHP (Symfony, MySQL, JavaScript) y 9 en .NET (ASP.NET Core, SQL Server, DevOps). Desde noviembre de 2026 trabajo como autónomo para pymes: webs con reservas online, automatizaciones y asistentes con IA. Siempre a medida y con el negocio delante: qué problema hay, qué se automatiza y qué es mejor dejar como está.
 
@@ -29,7 +29,7 @@ Ingeniero de Telecomunicaciones, con 12 años en PHP (Symfony, MySQL, JavaScript
 
 Los datos de tus clientes se tratan con cuidado: cifrado, mínimos necesarios y servidores en la UE cuando es posible.
 
-**¿Tienes algo en mente?** Escríbeme a pere.mataix@gmail.com o por [LinkedIn](https://www.linkedin.com/in/pere-mataix) y te preparo un presupuesto sin compromiso.
+**¿Tienes algo en mente?** Escríbeme a pere.mataix@gmail.com o por [LinkedIn](https://www.linkedin.com/in/pemasem) y te preparo un presupuesto sin compromiso.
 
 ---
 

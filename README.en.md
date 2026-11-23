@@ -4,7 +4,7 @@
 
 [Español](README.md) · English
 
-📫 pere.mataix@gmail.com · 📱 +34 647 945 468 · [LinkedIn](https://www.linkedin.com/in/pere-mataix)
+📫 pere.mataix@gmail.com · 📱 +34 647 945 468 · [LinkedIn](https://www.linkedin.com/in/pemasem)
 
 Telecommunications engineer with 12 years in PHP (Symfony, MySQL, JavaScript) and 9 in .NET (ASP.NET Core, SQL Server, DevOps). Freelance since November 2026, building online booking sites, automations and AI assistants for small businesses. Always custom-built and business-first: what the problem is, what to automate and what is better left alone.
 
@@ -27,7 +27,7 @@ Telecommunications engineer with 12 years in PHP (Symfony, MySQL, JavaScript) an
 3. **I build it and you test it with sample data** before anything real is touched.
 4. **We go live** and I show you how to use it.
 
-**Got something in mind?** Email pere.mataix@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/pere-mataix) for a no-obligation quote.
+**Got something in mind?** Email pere.mataix@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/pemasem) for a no-obligation quote.
 
 ---
 
