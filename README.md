@@ -6,6 +6,8 @@ Español · [English](README.en.md)
 
 📫 pere.mataix@gmail.com · 📱 +34 647 945 468 · [LinkedIn](https://www.linkedin.com/in/pemasem) · [Página profesional](https://www.linkedin.com/company/pere-mataix-desarrollo)
 
+📄 **CV en PDF:** [castellano](cv/CV_ES_PereMataixSempere.pdf) · [inglés](cv/CV_EN_PereMataixSempere.pdf)
+
 Ingeniero de Telecomunicaciones, con 12 años en PHP (Symfony, MySQL, JavaScript) y 9 en .NET (ASP.NET Core, SQL Server, DevOps). Desde noviembre de 2026 trabajo como autónomo para pymes: webs con reservas online, automatizaciones y asistentes con IA. Siempre a medida y con el negocio delante: qué problema hay, qué se automatiza y qué es mejor dejar como está.
 
 ## Qué puedo hacer por tu negocio

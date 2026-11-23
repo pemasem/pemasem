@@ -6,6 +6,8 @@
 
 📫 pere.mataix@gmail.com · 📱 +34 647 945 468 · [LinkedIn](https://www.linkedin.com/in/pemasem)
 
+📄 **CV (PDF):** [English](cv/CV_EN_PereMataixSempere.pdf) · [Spanish](cv/CV_ES_PereMataixSempere.pdf)
+
 Telecommunications engineer with 12 years in PHP (Symfony, MySQL, JavaScript) and 9 in .NET (ASP.NET Core, SQL Server, DevOps). Freelance since November 2026, building online booking sites, automations and AI assistants for small businesses. Always custom-built and business-first: what the problem is, what to automate and what is better left alone.
 
 ## What I can do for your business
